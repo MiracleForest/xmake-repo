@@ -1,5 +1,4 @@
 package("uwebsockets")
-    set_kind("headeronly")
     set_homepage("https://github.com/uNetworking")
     set_description("Simple, secure & standards compliant web server for the most demanding of applications.")
 
