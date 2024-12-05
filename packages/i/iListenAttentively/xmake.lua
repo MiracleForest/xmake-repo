@@ -3,18 +3,17 @@ package("ilistenattentively")
     add_versionfiles("versions/versions.txt")
 
     on_load(function(package)
-        local deps = {
-            "fmt",
-            "magic_enum",
-            "nlohmann_json",
-            "levilamina"
-        }
-
-        function load(package)
-            for _, dep in ipairs(deps) do
-                package:add("deps", dep)
-            end
-        end
+        import("core.base.semver")
+        local version = package:version_str()
+        version = string.gsub(version, "%.", "_")
+        try { function()
+            import("versions." .. version).load(package)
+        end, catch { function(e)
+            cprint(
+                "${bright yellow}warning: ${clear}Unknown version: ${bright cyan}"
+                .. version .. "${clear}, please resolve dependencies manually."
+            )
+        end } }
     end)
 
     on_install(function(package)
