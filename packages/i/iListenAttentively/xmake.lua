@@ -1,5 +1,5 @@
 package("ilistenattentively")
-    add_urls("https://github.com/MiracleForest/iListenAttentively.git")
+    add_urls("https://github.com/MiracleForest/iListenAttentively-Release.git")
     add_versionfiles("versions/versions.txt")
 
     on_load(function(package)
