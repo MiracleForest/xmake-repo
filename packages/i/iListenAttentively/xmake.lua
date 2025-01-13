@@ -2,7 +2,7 @@ package("ilistenattentively")
     set_description("iListenAttentively is a rich and modern LeviLamina Minecraft event library!")
 
     add_urls("https://github.com/MiracleForest/iListenAttentively-Release.git")
-    add_urls("https://github.com/MiracleForest/iListenAttentively-Release/releases/download/$(version)/SDK.zip")
+    add_urls("https://github.com/MiracleForest/iListenAttentively-Release/releases/download/v$(version)/SDK.zip")
     add_versions("0.1.0", "e825dbb88bfc597c2a6be3a49ee7555df5dee42d")
     add_versions("0.2.0", "fde7876a2b1c83dbfc9bdebc1037c54c9f424a72")
     add_versions("0.2.1", "0642bfc51b7dba18e73736d7d1c7e3efcd526443")
