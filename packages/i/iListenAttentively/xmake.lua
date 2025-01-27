@@ -7,6 +7,7 @@ package("ilistenattentively")
     add_versions("0.2.0", "fde7876a2b1c83dbfc9bdebc1037c54c9f424a72")
     add_versions("0.2.1", "0642bfc51b7dba18e73736d7d1c7e3efcd526443")
     add_versions("0.2.2", "f6dcd82cb247cb62b916ccf4ba847668adc39d83b43917f3da84803bee47d99f")
+    add_versions("0.2.3", "2e18bae7372e49c4cc1fc332282417241ef3570bc488da55eb74676415e9ab8d")
 
     on_install(function(package)
         if package:version():le("0.2.1") then
