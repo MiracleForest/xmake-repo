@@ -1,8 +1,6 @@
 package("ilistenattentively")
     set_homepage("https://github.com/MiracleForest/iListenAttentively-Release")
-    set_title("iListenAttentively")
     set_description("iListenAttentively is a rich and modern LeviLamina Minecraft event library!")
-    set_maintainer("MiracleForest")
 
     add_urls("https://github.com/MiracleForest/iListenAttentively-Release.git", {alias = "A"})
     add_urls("https://github.com/MiracleForest/iListenAttentively-Release/archive/refs/tags/v$(version).tar.gz", {alias = "A"})
