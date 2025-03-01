@@ -13,6 +13,7 @@ package("ilistenattentively")
 
     add_urls("https://github.com/MiracleForest/iListenAttentively-Release/releases/download/v$(version)/iListenAttentively-SDK.zip", {alias = "C"})
     add_versions("C:0.3.0", "dde5c1089eab55d3accf54562f584a13d98194299bb20124cbe72af653368a28")
+    add_versions("C:0.3.1", "64d548e1048de13e15a6be699729f189901baa36aa5b2f474a3b8bca6a796f61")
 
     on_install(function(package)
         if package:version():le("0.2.1") then
