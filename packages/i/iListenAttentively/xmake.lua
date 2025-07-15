@@ -20,6 +20,7 @@ package("ilistenattentively")
     add_versions("C:0.5.0-rc.1", "ec86be823f00bd420ba177995980989c8e0592b1db0179d28616fb833ac55f5b")
     add_versions("C:0.5.0", "2fe3b3588bc9beeb16b558562e838dbd99a26cdcf69494ecc07249230fa3b1ce")
     add_versions("C:0.6.0", "2c8082f91d0e81cd7745ca43e3b5aebe28722ddc09ed7f512dcacce635dfe5b4")
+    add_versions("C:0.7.0", "ec8d53a84c8debd86eeabe880c2ac5eae4ee5eda10a808f7a877ab349b43a144")
 
     on_install(function(package)
         if package:version():le("0.2.1") then
