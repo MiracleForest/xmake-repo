@@ -19,7 +19,7 @@ package("ibasiclibrary")
     }
 
     for _, name in ipairs(ibl_optional_modules) do
-        add_configs(name, { description = "Enable " .. name .. " module", default = true, type = "boolean" })
+        add_configs(name, { description = "Enable " .. name .. " module", default = name == "io", type = "boolean" })
     end
 
     add_urls("https://github.com/MiracleForest/iBasicLibrary-Release/releases/download/v$(version)/iBasicLibrary-SDK.zip")
@@ -44,6 +44,9 @@ package("ibasiclibrary")
         end
 
         package:add("defines", "IBL_WITH_BASE", "IBL_WITH_TYPE")
+        if package:is_plat("windows") then
+            package:add("syslinks", "pdh", "psapi", "advapi32", "wbemuuid", "ntdll", "user32")
+        end
         for _, name in ipairs(ibl_optional_modules) do
             if enabled_modules[name] then
                 package:add("defines", "IBL_WITH_" .. name:upper())
