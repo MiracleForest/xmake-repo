@@ -1,0 +1,17 @@
+{
+    ["windows-x64-vc-0e6ce380187f47a282c17574707bf7ba"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/prelink_0/prelink-b94b1da863254217a7dfaa500af77e06.7z",
+        sha256 = "d1c95a7f9cf9e210a68ea91014ee0203e863b5d4c472c90954fbbe2857996f5d",
+    },
+    ["windows-x64-vc-83b2708fb7ca41b6b54aacc861106daf"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/prelink_0/prelink-b94b1da863254217a7dfaa500af77e06.7z",
+        sha256 = "d1c95a7f9cf9e210a68ea91014ee0203e863b5d4c472c90954fbbe2857996f5d",
+    },
+    ["windows-x64-vc-b94b1da863254217a7dfaa500af77e06"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/prelink_0/prelink-b94b1da863254217a7dfaa500af77e06.7z",
+        sha256 = "d1c95a7f9cf9e210a68ea91014ee0203e863b5d4c472c90954fbbe2857996f5d",
+    },
+}
