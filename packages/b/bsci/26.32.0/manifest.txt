@@ -1,0 +1,22 @@
+{
+    ["windows-x64-vc-04b3ade1c43e4f13a276bf0ca269b130"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bsci_0/bsci-04b3ade1c43e4f13a276bf0ca269b130.7z",
+        sha256 = "146f525939b5bf99008addd7840fa4e32cfcbdcda78aed9c89eb33f165438877",
+    },
+    ["windows-x64-vc-2fc904b547724e9da28ba28b37849409"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bsci_0/bsci-2fc904b547724e9da28ba28b37849409.7z",
+        sha256 = "d07bad53efbb0bf89f7abaa426b2e707e618289faf633747328447fef124cfae",
+    },
+    ["windows-x64-vc-3f6a9e9e090444e5aee93ccef8c39256"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bsci_0/bsci-2fc904b547724e9da28ba28b37849409.7z",
+        sha256 = "d07bad53efbb0bf89f7abaa426b2e707e618289faf633747328447fef124cfae",
+    },
+    ["windows-x64-vc-91e172d4a91141f58fb5501d9344d8ee"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bsci_0/bsci-04b3ade1c43e4f13a276bf0ca269b130.7z",
+        sha256 = "146f525939b5bf99008addd7840fa4e32cfcbdcda78aed9c89eb33f165438877",
+    },
+}

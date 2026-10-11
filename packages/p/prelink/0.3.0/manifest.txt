@@ -1,0 +1,7 @@
+{
+    ["windows-x64-vc-702ff9c626064350bc568f5fb720db57"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/prelink_0/prelink-702ff9c626064350bc568f5fb720db57.7z",
+        sha256 = "3c3c375c2d9ac81118e0f67c40ccc232ebf0fe667e486efc49b9c3b1a361cc87",
+    },
+}

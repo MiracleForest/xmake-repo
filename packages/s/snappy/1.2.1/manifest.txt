@@ -1,0 +1,17 @@
+{
+    ["windows-x64-vc-305dc11badd04558a565d9b43c8742f3"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/snappy_0/snappy-95042f33987c4d339f7e96106057275f.7z",
+        sha256 = "c18a4442048469d554d32152d9b66ec4531e7f1df4be4e485e9818896528c1db",
+    },
+    ["windows-x64-vc-95042f33987c4d339f7e96106057275f"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/snappy_0/snappy-95042f33987c4d339f7e96106057275f.7z",
+        sha256 = "c18a4442048469d554d32152d9b66ec4531e7f1df4be4e485e9818896528c1db",
+    },
+    ["windows-x64-vc-b006208d1f3e4cc89cd3eff70fce6c32"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/snappy_0/snappy-95042f33987c4d339f7e96106057275f.7z",
+        sha256 = "c18a4442048469d554d32152d9b66ec4531e7f1df4be4e485e9818896528c1db",
+    },
+}
