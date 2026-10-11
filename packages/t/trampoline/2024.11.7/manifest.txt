@@ -1,0 +1,17 @@
+{
+    ["windows-x64-vc-552c1d2061e44233a497ba064002bba0"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/trampoline_0/trampoline-552c1d2061e44233a497ba064002bba0.7z",
+        sha256 = "1327983d5cf86f2d09a60da54c36fdea44f94f294128ad4350f2a2c579da90e3",
+    },
+    ["windows-x64-vc-fc06abcc1c22427eb159b24012ce051b"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/trampoline_0/trampoline-552c1d2061e44233a497ba064002bba0.7z",
+        sha256 = "1327983d5cf86f2d09a60da54c36fdea44f94f294128ad4350f2a2c579da90e3",
+    },
+    ["windows-x64-vc-ffbe8ea734a749ecb026f1d6e5160632"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/trampoline_0/trampoline-552c1d2061e44233a497ba064002bba0.7z",
+        sha256 = "1327983d5cf86f2d09a60da54c36fdea44f94f294128ad4350f2a2c579da90e3",
+    },
+}
