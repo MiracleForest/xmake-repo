@@ -1,0 +1,12 @@
+{
+    ["windows-x64-vc-2e79fa7acf434eb78aeabd0c0abe80ec"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/more-dimensions_0/more-dimensions-9a2b060241e049f18dc6583a2d891825.7z",
+        sha256 = "102c5c5d0b0e3b3e0ec173946b2e1b5fe4f58feb4648c723ff50e62edf4bf14a",
+    },
+    ["windows-x64-vc-9a2b060241e049f18dc6583a2d891825"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/more-dimensions_0/more-dimensions-9a2b060241e049f18dc6583a2d891825.7z",
+        sha256 = "102c5c5d0b0e3b3e0ec173946b2e1b5fe4f58feb4648c723ff50e62edf4bf14a",
+    },
+}

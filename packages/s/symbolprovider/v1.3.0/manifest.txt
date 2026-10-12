@@ -2,16 +2,16 @@
     ["windows-x64-vc-8ef9d781a7854895b90a561f7f9be0ea"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/symbolprovider_0/symbolprovider-8ef9d781a7854895b90a561f7f9be0ea.7z",
-        sha256 = "43772520efa3fe5e9ca5f899311f424846435886591d23c6ef6ed542dbf84049",
+        sha256 = "683bfbd7de94138270e1eb6de91dfdbe73a2d4340f64305c9857c8a8ba2ed5e2",
     },
     ["windows-x64-vc-9731305ba7704f5982e5b034fbd5e46c"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/symbolprovider_0/symbolprovider-8ef9d781a7854895b90a561f7f9be0ea.7z",
-        sha256 = "43772520efa3fe5e9ca5f899311f424846435886591d23c6ef6ed542dbf84049",
+        sha256 = "683bfbd7de94138270e1eb6de91dfdbe73a2d4340f64305c9857c8a8ba2ed5e2",
     },
     ["windows-x64-vc-ebc9be7a4187452c8d94bfab703d73c3"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/symbolprovider_0/symbolprovider-8ef9d781a7854895b90a561f7f9be0ea.7z",
-        sha256 = "43772520efa3fe5e9ca5f899311f424846435886591d23c6ef6ed542dbf84049",
+        sha256 = "683bfbd7de94138270e1eb6de91dfdbe73a2d4340f64305c9857c8a8ba2ed5e2",
     },
 }
