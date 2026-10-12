@@ -1,0 +1,12 @@
+{
+    ["windows-x64-vc-bc50c698378a4440a85ba707b07bbf28"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bsci_0/bsci-cfa1cad206004f06aa16176fcff0772d.7z",
+        sha256 = "2a688e5ebec9b29c25723e295c2a4a049f3b474e980123e86c4d2bc0f58e9ca4",
+    },
+    ["windows-x64-vc-cfa1cad206004f06aa16176fcff0772d"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bsci_0/bsci-cfa1cad206004f06aa16176fcff0772d.7z",
+        sha256 = "2a688e5ebec9b29c25723e295c2a4a049f3b474e980123e86c4d2bc0f58e9ca4",
+    },
+}
