@@ -1,0 +1,17 @@
+{
+    ["windows-x64-vc-65a8566e5f1240f28c6e3c5c6bbf0fa9"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bdslibrary_0/bdslibrary-813c57eabb134b8e9dc2800d9cd97bcc.7z",
+        sha256 = "6b292e92f411b97c7595677ebfc89eaa0bc0db9b4d40011b34743979cde74e57",
+    },
+    ["windows-x64-vc-813c57eabb134b8e9dc2800d9cd97bcc"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bdslibrary_0/bdslibrary-813c57eabb134b8e9dc2800d9cd97bcc.7z",
+        sha256 = "6b292e92f411b97c7595677ebfc89eaa0bc0db9b4d40011b34743979cde74e57",
+    },
+    ["windows-x64-vc-b0da7d6c7d844c9f84d533ef2b792972"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/bdslibrary_0/bdslibrary-813c57eabb134b8e9dc2800d9cd97bcc.7z",
+        sha256 = "6b292e92f411b97c7595677ebfc89eaa0bc0db9b4d40011b34743979cde74e57",
+    },
+}
