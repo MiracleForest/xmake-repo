@@ -9,24 +9,9 @@
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/demangler_0/demangler-57206051c21c41009d4a5306cebc56d2.7z",
         sha256 = "613632d9b24ba6433f7b599b692e177649f0bade288558e49e72ab8bc8afe1e2",
     },
-    ["windows-x64-vc-71f034b6daaf41debd91b4f7136dfad5"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/demangler_0/demangler-b2a79211a1ad4cda9f4eab810db284b7.7z",
-        sha256 = "73622c4714335340ad511d60ce6c312240f009073912a2b89c870bbe4fb2a387",
-    },
     ["windows-x64-vc-7f9e4d586bbc41e1921315e1c4dbb684"] = {
         toolset = "14.51.36231",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/demangler_0/demangler-57206051c21c41009d4a5306cebc56d2.7z",
         sha256 = "613632d9b24ba6433f7b599b692e177649f0bade288558e49e72ab8bc8afe1e2",
-    },
-    ["windows-x64-vc-8de7a952e2bd4c12ac2d362683104fe2"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/demangler_0/demangler-b2a79211a1ad4cda9f4eab810db284b7.7z",
-        sha256 = "73622c4714335340ad511d60ce6c312240f009073912a2b89c870bbe4fb2a387",
-    },
-    ["windows-x64-vc-b2a79211a1ad4cda9f4eab810db284b7"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/demangler_0/demangler-b2a79211a1ad4cda9f4eab810db284b7.7z",
-        sha256 = "73622c4714335340ad511d60ce6c312240f009073912a2b89c870bbe4fb2a387",
     },
 }

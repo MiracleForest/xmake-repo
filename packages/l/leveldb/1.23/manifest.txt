@@ -14,19 +14,4 @@
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/leveldb_0/leveldb-2532d000dc9d47cbb618c80ba0e6d806.7z",
         sha256 = "4481cc2d0a283e770ed08659591df1346d9e60295a186e355b60a00edf46eaae",
     },
-    ["windows-x64-vc-a6da4b3d885d4c15a70a1089cedc734d"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/leveldb_0/leveldb-e75a071b4bcf4c7ba6ed1d50ed645b69.7z",
-        sha256 = "3806887694491189ff8feed83640c10e2b4966006e543b0e0c307b4abaee6238",
-    },
-    ["windows-x64-vc-de1fecabe82d44a2b1b743df26efbc5d"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/leveldb_0/leveldb-e75a071b4bcf4c7ba6ed1d50ed645b69.7z",
-        sha256 = "3806887694491189ff8feed83640c10e2b4966006e543b0e0c307b4abaee6238",
-    },
-    ["windows-x64-vc-e75a071b4bcf4c7ba6ed1d50ed645b69"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/leveldb_0/leveldb-e75a071b4bcf4c7ba6ed1d50ed645b69.7z",
-        sha256 = "3806887694491189ff8feed83640c10e2b4966006e543b0e0c307b4abaee6238",
-    },
 }
