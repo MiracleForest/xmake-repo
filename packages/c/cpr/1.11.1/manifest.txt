@@ -2,16 +2,31 @@
     ["windows-x64-vc-1c9ad4a4e04341219556b734b3fdce5d"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/cpr_0/cpr-1c9ad4a4e04341219556b734b3fdce5d-vc1444.7z",
-        sha256 = "db8011be0c0532c2359786ef042c16efbb546467d16dd2393cf757bb6175ca8a",
+        sha256 = "5ffc79835093575b798231cd07d41f2b76e1fe38e4bc22c5b94305a8aad11e0e",
     },
     ["windows-x64-vc-3a95096e5c70467fbd5a5d8585343423"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/cpr_0/cpr-1c9ad4a4e04341219556b734b3fdce5d-vc1444.7z",
-        sha256 = "db8011be0c0532c2359786ef042c16efbb546467d16dd2393cf757bb6175ca8a",
+        sha256 = "5ffc79835093575b798231cd07d41f2b76e1fe38e4bc22c5b94305a8aad11e0e",
     },
     ["windows-x64-vc-595dddd1bb5443de92a1c339a160d7b8"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/cpr_0/cpr-1c9ad4a4e04341219556b734b3fdce5d-vc1444.7z",
-        sha256 = "db8011be0c0532c2359786ef042c16efbb546467d16dd2393cf757bb6175ca8a",
+        sha256 = "5ffc79835093575b798231cd07d41f2b76e1fe38e4bc22c5b94305a8aad11e0e",
+    },
+    ["windows-x64-vc-5cebf81912a24150a7cee397e51c88c9"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/cpr_0/cpr-5cebf81912a24150a7cee397e51c88c9-vc1444.7z",
+        sha256 = "069d6bc464d28f82225cda3e5328ae7052d2305464a9152fc5146c4234809611",
+    },
+    ["windows-x64-vc-d4761bd3c00548eea56571ff620a33aa"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/cpr_0/cpr-5cebf81912a24150a7cee397e51c88c9-vc1444.7z",
+        sha256 = "069d6bc464d28f82225cda3e5328ae7052d2305464a9152fc5146c4234809611",
+    },
+    ["windows-x64-vc-e4a3ddd17af24c858bd178be62212ead"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/cpr_0/cpr-5cebf81912a24150a7cee397e51c88c9-vc1444.7z",
+        sha256 = "069d6bc464d28f82225cda3e5328ae7052d2305464a9152fc5146c4234809611",
     },
 }

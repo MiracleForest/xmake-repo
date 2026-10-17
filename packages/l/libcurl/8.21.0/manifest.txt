@@ -1,17 +1,17 @@
 {
     ["windows-x64-vc-0de27c26a1a74ad692b8b1fc35c5c59d"] = {
         toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b.7z",
-        sha256 = "2161918e35f974b772fdb9bb05dba535b3acc2c50bfeded97b96ad107f16042f",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b-vc1444.7z",
+        sha256 = "a79e90744ba25b2c564d93fbc971b905a74ac22f87b2f60b33f691bd4bb5a67e",
     },
     ["windows-x64-vc-917c16ddbf2942d1ae0e099942006c5b"] = {
         toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b.7z",
-        sha256 = "2161918e35f974b772fdb9bb05dba535b3acc2c50bfeded97b96ad107f16042f",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b-vc1444.7z",
+        sha256 = "a79e90744ba25b2c564d93fbc971b905a74ac22f87b2f60b33f691bd4bb5a67e",
     },
     ["windows-x64-vc-bd3caa5a72e84c5bb235d19eec2a450e"] = {
         toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b.7z",
-        sha256 = "2161918e35f974b772fdb9bb05dba535b3acc2c50bfeded97b96ad107f16042f",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libcurl_0/libcurl-917c16ddbf2942d1ae0e099942006c5b-vc1444.7z",
+        sha256 = "a79e90744ba25b2c564d93fbc971b905a74ac22f87b2f60b33f691bd4bb5a67e",
     },
 }
