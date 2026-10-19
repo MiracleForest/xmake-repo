@@ -2,16 +2,16 @@
     ["windows-x64-vc-0071b192a64b4433a7438b5d6e7156fe"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/preloader_0/preloader-a8d66193496f482089d72704869d327c-vc1444.7z",
-        sha256 = "24e913caabe0b4617f08a13dbc5251e0860034759b938cce2421a08865c31bd4",
+        sha256 = "c1d65f5eb665716c5e18338051938d321c5ccf9759babb303299bf7468a88395",
     },
     ["windows-x64-vc-4847930ff73d46259dd8a16efac1d285"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/preloader_0/preloader-a8d66193496f482089d72704869d327c-vc1444.7z",
-        sha256 = "24e913caabe0b4617f08a13dbc5251e0860034759b938cce2421a08865c31bd4",
+        sha256 = "c1d65f5eb665716c5e18338051938d321c5ccf9759babb303299bf7468a88395",
     },
     ["windows-x64-vc-a8d66193496f482089d72704869d327c"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/preloader_0/preloader-a8d66193496f482089d72704869d327c-vc1444.7z",
-        sha256 = "24e913caabe0b4617f08a13dbc5251e0860034759b938cce2421a08865c31bd4",
+        sha256 = "c1d65f5eb665716c5e18338051938d321c5ccf9759babb303299bf7468a88395",
     },
 }
