@@ -1,23 +1,8 @@
 {
-    ["windows-x64-vc-30c33caf17be49bb9fd661786ab3f761"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/mimalloc_0/mimalloc-48a6f3ef83a5400f92f975e0079d625c-vc1444.7z",
-        sha256 = "b56301827336a318565de30620dee84e61930aa7167a0458c6d08f75d69f6338",
-    },
-    ["windows-x64-vc-48a6f3ef83a5400f92f975e0079d625c"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/mimalloc_0/mimalloc-48a6f3ef83a5400f92f975e0079d625c-vc1444.7z",
-        sha256 = "b56301827336a318565de30620dee84e61930aa7167a0458c6d08f75d69f6338",
-    },
     ["windows-x64-vc-6d5b17657f3a46ba8f417148aa29bac1"] = {
         toolset = "14.44.35207",
         urls = "https://github.com/MiracleForest/iBuildCache/releases/download/mimalloc_0/mimalloc-6d5b17657f3a46ba8f417148aa29bac1-vc1444.7z",
         sha256 = "01bc58cdc13fa0e6b9fc0965a18170742d113c913a29ca63bb02f16d4e02557b",
-    },
-    ["windows-x64-vc-a52239cffae548d9a541231d12ed5505"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/mimalloc_0/mimalloc-48a6f3ef83a5400f92f975e0079d625c-vc1444.7z",
-        sha256 = "b56301827336a318565de30620dee84e61930aa7167a0458c6d08f75d69f6338",
     },
     ["windows-x64-vc-b9b28b273a974dd3a3de747e0412bb74"] = {
         toolset = "14.44.35207",
