@@ -1,0 +1,12 @@
+{
+    ["windows-x64-vc-8bcd317010874ad185c4fea03c8bf7a7"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/levilamina_0/levilamina-dbc7149aa2a148899912019d3059b6d6-vc1444.7z",
+        sha256 = "60d591ed0a7a343743586e4f537178f361b3eef70801419b496a4a3769c9321c",
+    },
+    ["windows-x64-vc-dbc7149aa2a148899912019d3059b6d6"] = {
+        toolset = "14.44.35207",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/levilamina_0/levilamina-dbc7149aa2a148899912019d3059b6d6-vc1444.7z",
+        sha256 = "60d591ed0a7a343743586e4f537178f361b3eef70801419b496a4a3769c9321c",
+    },
+}
