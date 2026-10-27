@@ -1,17 +1,17 @@
 {
     ["windows-x64-vc-5bc196abc3ce43048a872ea3801c8b3d"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a-vc1444.7z",
-        sha256 = "2d0b64c91b939eb9012dcf194ce16d671a1db81f77ef2186917293686ba71da1",
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a-vc1451.7z",
+        sha256 = "c04237165f5c975850e9f222e4183cdf8c93669ffbf15e1853b1feed49fcadc8",
     },
     ["windows-x64-vc-b08e7160ae9441f09e3d0b1ddcb2deea"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a-vc1444.7z",
-        sha256 = "2d0b64c91b939eb9012dcf194ce16d671a1db81f77ef2186917293686ba71da1",
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a-vc1451.7z",
+        sha256 = "c04237165f5c975850e9f222e4183cdf8c93669ffbf15e1853b1feed49fcadc8",
     },
     ["windows-x64-vc-c50fc038e66740e58945ea5327f5be6a"] = {
-        toolset = "14.44.35207",
-        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a-vc1444.7z",
-        sha256 = "2d0b64c91b939eb9012dcf194ce16d671a1db81f77ef2186917293686ba71da1",
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/libhat_0/libhat-c50fc038e66740e58945ea5327f5be6a-vc1451.7z",
+        sha256 = "c04237165f5c975850e9f222e4183cdf8c93669ffbf15e1853b1feed49fcadc8",
     },
 }
