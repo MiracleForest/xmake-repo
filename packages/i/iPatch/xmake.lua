@@ -5,6 +5,7 @@ package("ipatch")
 
     add_urls("https://github.com/MiracleForest/iPatch.git")
     add_versions("1.0.0", "58eeb0b1f86e926da1f77a3d13c218709147adb8")
+    add_versions("1.0.1", "3683e516fa514b3128830982f995c5a39350417f")
 
     on_install(function (package)
         local configs = {}
