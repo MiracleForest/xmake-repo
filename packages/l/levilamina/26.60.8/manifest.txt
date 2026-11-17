@@ -1,0 +1,32 @@
+{
+    ["windows-x64-vc-1063cfd5df854512934dee6527023253"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/levilamina_0/levilamina-2aa50282ab5e43a9b0eb51e036daad91-vc1451.7z",
+        sha256 = "abebe01a9eb64420a5470d760d55ee38d30ed17468e71e8b836df9b055069f44",
+    },
+    ["windows-x64-vc-28379721bbb6457b87bdf3d87b7b0445"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/levilamina_0/levilamina-2aa50282ab5e43a9b0eb51e036daad91-vc1451.7z",
+        sha256 = "abebe01a9eb64420a5470d760d55ee38d30ed17468e71e8b836df9b055069f44",
+    },
+    ["windows-x64-vc-2aa50282ab5e43a9b0eb51e036daad91"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/levilamina_0/levilamina-2aa50282ab5e43a9b0eb51e036daad91-vc1451.7z",
+        sha256 = "abebe01a9eb64420a5470d760d55ee38d30ed17468e71e8b836df9b055069f44",
+    },
+    ["windows-x64-vc-66014718d51145e7b410dce80e459902"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/levilamina_0/levilamina-e6c8614a16f74a45a1be815ef1747c21-vc1451.7z",
+        sha256 = "969b056d205a688ca00604094645d33cd71fed5890a63593f9bd82824428f340",
+    },
+    ["windows-x64-vc-8000ef0ef89f49c1b84f937ad05ce676"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/levilamina_0/levilamina-e6c8614a16f74a45a1be815ef1747c21-vc1451.7z",
+        sha256 = "969b056d205a688ca00604094645d33cd71fed5890a63593f9bd82824428f340",
+    },
+    ["windows-x64-vc-e6c8614a16f74a45a1be815ef1747c21"] = {
+        toolset = "14.51.36231",
+        urls = "https://github.com/MiracleForest/iBuildCache/releases/download/levilamina_0/levilamina-e6c8614a16f74a45a1be815ef1747c21-vc1451.7z",
+        sha256 = "969b056d205a688ca00604094645d33cd71fed5890a63593f9bd82824428f340",
+    },
+}
